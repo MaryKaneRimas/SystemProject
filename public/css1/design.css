@@ -1,0 +1,259 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+	background-color: #d6afed;
+
+}
+textarea
+{
+		font-size: 20px;
+        border-color: #D8D8D8;
+        border-radius: 5px;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+	
+}
+a:hover {
+  background-color: #FDF5E6;
+  padding: 10px;
+  border-radius: 5px;
+  color: indigo;
+  transform: scale(1.5);
+  box-shadow: 2px 2px 2px;
+  z-index: 2;
+
+}
+img{
+	border-radius: 50%;
+
+}
+.img1
+{
+	margin-top: 50px;
+	border-radius: 0px;
+	width: 40%;
+}
+.img2
+{
+	border-radius: 0px;
+	width: 10%;
+	margin-left: 220px;
+}
+
+.contact
+{
+	margin-top: -400px;
+	margin-left: 700px;
+	font-family: Century Gothic;
+	font-weight: bold;
+	font-size: 25px;
+	color: indigo;
+
+}
+
+
+.profile
+{
+	margin-top: 50px;
+}
+
+#nav{
+		font-size: 20px;
+		text-align: center;
+		background-color: indigo;
+		height: 70px;
+		font-family: Segoe UI;
+		font-weight: bold;
+
+	}
+footer {
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+   background-color: indigo;
+   color: white;
+   text-align: center;
+   font-family: Century Gothic;
+}
+
+
+
+input{
+        font-size: 20px;
+        border-color: indigo;
+        border-radius: 5px;
+
+    }
+select{
+        font-size: 20px;
+        border-color: indigo;
+        border-radius: 5px;
+        width: 250px;
+
+    }
+table{
+	margin-left: 40px;
+	background-color: white;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 50px;
+	border-radius: 15px;
+	border-color: indigo;
+	width: 30%;
+	height: 400px;
+	font-weight: bold;
+	font-family: Century Gothic;
+	color: white;
+	
+	
+}
+
+.tb4{
+	margin-left: 120px;
+	background-color: white;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 50px;
+	border-radius: 15px;
+	border-color: indigo;
+	width: 50%;
+	font-weight: bold;
+	font-family: Century Gothic;
+	color: white;
+	
+	
+}
+
+
+.tb3{
+	margin-left: 700px;
+	background-color: white;
+	font-size: 20px;
+	text-align: center;
+	margin-top: -400px;
+	border-radius: 15px;
+	border-color: indigo;
+	width: 40%;
+	font-weight: bold;
+	font-family: Century Gothic;
+	color: white;
+	
+	
+}
+
+
+.tb2{
+	margin-left: 500px;
+	background-color: white;
+	font-size: 20px;
+	text-align: center;
+	margin-top: -400px;
+	border-radius: 5px;
+	border-color: indigo;
+	width: 60%;
+	font-weight: bold;
+	font-family: Century Gothic;
+	color: white;
+}
+
+.text{
+	font-size: 20px;
+	font-weight: bold;
+}
+.column{
+	text-align: left;
+	font-size: 15px;
+}
+td{
+	color: indigo;
+
+}
+b
+{
+	font-family: Century Gothic;
+	font-weight: bold;
+	font-size: 15px;
+	margin-left: 150px;
+	color: indigo;
+}
+label
+{
+	font-family: Century Gothic;
+	font-weight: bold;
+	font-size: 25px;
+	margin-left: 150px;
+	color: indigo;
+}
+
+p{
+	font-weight: bold;
+	font-family: cursive;
+	font-size: 20px;
+	color: indigo;
+}
+.group
+{
+	font-weight: bold;
+	font-family: Century Gothic;
+	font-size: 15px;
+	color: green;
+}
+
+button{
+	background-color: blue;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	border-radius: 10px;
+	border-color: transparent;
+	width: 100px;
+	height: 40px;
+}
+.red{
+	background-color: red;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	border-radius: 10px;
+	border-color: transparent;
+	width: 100px;
+	height: 40px;
+}
+.green{
+	background-color: green;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	border-radius: 10px;
+	border-color: transparent;
+	width: 100px;
+	height: 40px;
+}
+
+.delete{
+	background-color: red;
+	color: white;
+	font-size: 10px;
+	text-align: center;
+	border-radius: 10px;
+	border-color: transparent;
+	width: 60px;
+	height: 20px;
+}
+
+.edit{
+	background-color: orange;
+	color: white;
+	font-size: 10px;
+	text-align: center;
+	border-radius: 10px;
+	border-color: transparent;
+	width: 60px;
+	height: 20px;
+}
